@@ -5,7 +5,7 @@ The p2p substrate, ours: store, discovery, connections, replication, channels, r
 A package: self-contained, its code ready to run, laid out as it is installed. Written by the package manager (`pear-full-square/pkgm-base-manager`) from the development repository; do not edit here.
 
 - requires: `haiccing/base-package-mycelium`, `haiccing/base-package-haicc`
-- hash: `78df82f9c0619e6deb2fff2d68a5e22feca9797fbd44eb2d208b38fbca77e6f6`
+- hash: `3814cc72da611fdc6ada81e4149461d262a60e7299ec692a1b63f8299a3951f1`
 
 ## Holds
 
